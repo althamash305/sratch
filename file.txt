@@ -1,2 +1,2 @@
-Hello this is branch1
-I am from Bangalore
+Hello this is branch2
+I am from Mandya
